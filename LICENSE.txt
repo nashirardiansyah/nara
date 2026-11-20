@@ -1,0 +1,90 @@
+NARA — FREEWARE LICENSE
+Copyright © 2026 Nashir Ardiansyah. All rights reserved.
+Contact: nashir.ardiansyah@gmail.com
+
+(Versi Bahasa Indonesia ada di bawah.)
+
+ENGLISH
+
+1. Grant. You may download, install and use Nara free of charge, for
+   personal use and for your work.
+
+2. Sharing. You may share Nara with others, provided you share it
+   complete and unmodified (for example the original DMG file), free of
+   charge, and with this license included.
+
+3. Restrictions. You may not:
+   a. sell Nara, or charge any fee for it or for distributing it;
+   b. modify Nara or create derivative works based on it;
+   c. reverse engineer, decompile or disassemble Nara, except where
+      applicable law expressly permits it;
+   d. remove or alter any copyright notice, license or author
+      information;
+   e. include Nara, in whole or in part, in a commercial product or
+      service.
+
+4. Your data. Nara stores your chats, files and settings on your own
+   computer. The author does not collect them. Information leaves your
+   computer only when you choose to send it, for example in a problem
+   report you send by email.
+
+5. Third-party software. Nara includes open-source components that are
+   licensed under their own terms (listed in Nara under About Nara →
+   Third party). Software that Nara works with, such as Ollama, LM
+   Studio, Draw Things and LibreOffice, and the AI models you download,
+   are subject to their own licenses.
+
+6. No warranty. Nara is provided "as is", without warranty of any kind,
+   express or implied, including fitness for a particular purpose.
+   AI-generated content may be inaccurate; check it before relying on it.
+
+7. Limitation of liability. To the extent permitted by law, the author
+   is not liable for any damage or loss arising from the use of, or
+   inability to use, Nara.
+
+8. Termination. This license ends automatically if you break any of its
+   terms. You must then stop using and sharing Nara.
+
+
+BAHASA INDONESIA
+
+1. Izin. Anda boleh mengunduh, memasang, dan memakai Nara secara gratis,
+   untuk keperluan pribadi maupun pekerjaan.
+
+2. Membagikan. Anda boleh membagikan Nara kepada orang lain, asalkan
+   dibagikan utuh dan tanpa perubahan (misalnya file DMG aslinya),
+   tanpa memungut biaya, dan disertai lisensi ini.
+
+3. Larangan. Anda tidak boleh:
+   a. menjual Nara, atau memungut biaya apa pun untuknya atau untuk
+      mendistribusikannya;
+   b. mengubah Nara atau membuat karya turunan darinya;
+   c. melakukan rekayasa balik, dekompilasi, atau membongkar Nara,
+      kecuali sejauh diizinkan secara tegas oleh hukum yang berlaku;
+   d. menghapus atau mengubah informasi hak cipta, lisensi, atau
+      pembuat;
+   e. memasukkan Nara, seluruhnya atau sebagian, ke dalam produk atau
+      layanan komersial.
+
+4. Data Anda. Nara menyimpan chat, file, dan pengaturan Anda di komputer
+   Anda sendiri. Pembuat tidak mengumpulkannya. Informasi hanya keluar
+   dari komputer Anda bila Anda sendiri yang mengirimnya, misalnya
+   laporan masalah yang Anda kirim lewat email.
+
+5. Perangkat lunak pihak ketiga. Nara memuat komponen sumber terbuka
+   yang tunduk pada lisensinya masing-masing (tercantum di Nara pada
+   Tentang Nara → Pihak ketiga). Perangkat lunak yang bekerja bersama
+   Nara, seperti Ollama, LM Studio, Draw Things, dan LibreOffice, serta
+   model AI yang Anda unduh, tunduk pada lisensinya masing-masing.
+
+6. Tanpa jaminan. Nara disediakan "sebagaimana adanya", tanpa jaminan
+   apa pun, tersurat maupun tersirat, termasuk kesesuaian untuk tujuan
+   tertentu. Hasil buatan AI bisa keliru; periksa sebelum diandalkan.
+
+7. Batasan tanggung jawab. Sejauh diizinkan hukum, pembuat tidak
+   bertanggung jawab atas kerusakan atau kerugian apa pun yang timbul
+   dari pemakaian Nara atau dari ketidakmampuan memakainya.
+
+8. Berakhirnya lisensi. Lisensi ini berakhir dengan sendirinya bila
+   Anda melanggar salah satu ketentuannya. Anda wajib berhenti memakai
+   dan membagikan Nara.
